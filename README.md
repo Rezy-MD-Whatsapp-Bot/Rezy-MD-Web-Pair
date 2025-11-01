@@ -1,1 +1,26 @@
-# Rezy-MD-Web-Pair
+<html>
+<head>
+    <style>
+        body{
+            background-color: blue;
+        }
+    </style>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
